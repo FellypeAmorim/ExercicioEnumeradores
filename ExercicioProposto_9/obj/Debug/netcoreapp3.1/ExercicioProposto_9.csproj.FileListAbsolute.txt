@@ -1,0 +1,13 @@
+C:\Users\gisel\source\repos\ExercicioProposto_9\ExercicioProposto_9\obj\Debug\netcoreapp3.1\ExercicioProposto_9.csprojAssemblyReference.cache
+C:\Users\gisel\source\repos\ExercicioProposto_9\ExercicioProposto_9\obj\Debug\netcoreapp3.1\ExercicioProposto_9.csproj.CoreCompileInputs.cache
+C:\Users\gisel\source\repos\ExercicioProposto_9\ExercicioProposto_9\obj\Debug\netcoreapp3.1\ExercicioProposto_9.AssemblyInfoInputs.cache
+C:\Users\gisel\source\repos\ExercicioProposto_9\ExercicioProposto_9\obj\Debug\netcoreapp3.1\ExercicioProposto_9.AssemblyInfo.cs
+C:\Users\gisel\source\repos\ExercicioProposto_9\ExercicioProposto_9\bin\Debug\netcoreapp3.1\ExercicioProposto_9.exe
+C:\Users\gisel\source\repos\ExercicioProposto_9\ExercicioProposto_9\bin\Debug\netcoreapp3.1\ExercicioProposto_9.deps.json
+C:\Users\gisel\source\repos\ExercicioProposto_9\ExercicioProposto_9\bin\Debug\netcoreapp3.1\ExercicioProposto_9.runtimeconfig.json
+C:\Users\gisel\source\repos\ExercicioProposto_9\ExercicioProposto_9\bin\Debug\netcoreapp3.1\ExercicioProposto_9.runtimeconfig.dev.json
+C:\Users\gisel\source\repos\ExercicioProposto_9\ExercicioProposto_9\bin\Debug\netcoreapp3.1\ExercicioProposto_9.dll
+C:\Users\gisel\source\repos\ExercicioProposto_9\ExercicioProposto_9\bin\Debug\netcoreapp3.1\ExercicioProposto_9.pdb
+C:\Users\gisel\source\repos\ExercicioProposto_9\ExercicioProposto_9\obj\Debug\netcoreapp3.1\ExercicioProposto_9.dll
+C:\Users\gisel\source\repos\ExercicioProposto_9\ExercicioProposto_9\obj\Debug\netcoreapp3.1\ExercicioProposto_9.pdb
+C:\Users\gisel\source\repos\ExercicioProposto_9\ExercicioProposto_9\obj\Debug\netcoreapp3.1\ExercicioProposto_9.genruntimeconfig.cache
